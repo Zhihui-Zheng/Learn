@@ -1,0 +1,32 @@
+# 其他本地项目，不上传
+exercise/
+homework2/
+readme
+
+# 大文件（超过 GitHub 100MB 限制）
+项目一：SAM+GraspNet抓取/project1.zip
+**/sam_b.pt
+
+# Python 缓存与构建产物
+__pycache__/
+*.py[cod]
+*$py.class
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# 虚拟环境
+.venv/
+venv/
+ENV/
+
+# IDE 与本地配置
+.idea/
+.vscode/
+.claude/
+*.log
+
+# 系统文件
+.DS_Store
+Thumbs.db
